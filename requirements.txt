@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+statsmodels
+streamlit
+scikit-image
+opencv-python
+# pip install -r requirements.txt
+# conda activate "D:\Data Science Krish Naik\imageprocessing\venv"
+# conda deactivate
